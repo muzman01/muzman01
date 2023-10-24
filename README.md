@@ -4,8 +4,6 @@ I'm a Javascript and Blockchain Programmer
 
 ## 🚀 My Work
 
-### 💼 Open Orca
-
 ### 🚀 Personal Projects
 
 ### 💻 Github Projects
