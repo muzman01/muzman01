@@ -1,6 +1,6 @@
 # Hello, I'm [Muzman01](https://github.com/muzman01) 👋
 
-I'm a Javascript and Blockchain Programmer
+I'm a Fullstack and Blockchain Programmer
 
 ## 🚀 My Work
 
